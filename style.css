@@ -107,3 +107,7 @@ h5{
 .card4{
     background-image: url('wolverine.jpg');
 }
+.one:hover{
+    border: 1px solid white;
+    background-color: violet;
+}
